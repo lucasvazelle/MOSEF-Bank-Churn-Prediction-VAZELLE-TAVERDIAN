@@ -1,15 +1,17 @@
 [tool.poetry]
-name = "mosef bank churn prediction"
+name = "mosef-bank-churn-prediction-vazelle-teverdian"
 version = "0.1.0"
-description = "MOSEF Bank Churn Prediction"
-authors = ["MariamTaverdian"]
+description = ""
+authors = ["Lucasvazelle <lucasvazelle@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+
+[tool.poetry.group.dev.dependencies]
 pandas = "^2.2.3"
 numpy = "^2.1.3"
-
+matplotlib = "^3.9.2"
 
 [build-system]
 requires = ["poetry-core"]
