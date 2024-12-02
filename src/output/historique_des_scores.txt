@@ -1,0 +1,5 @@
+0.8690 , modèle logistique ,  traitement des catégorielles
+0.8679 , modèle logistique ,  traitement des catégorielles , multicolinéarité,  traitement des outliers(cook)
+0,92  , modèle xg boost + hypara , traitement des catégorielles , multicolinéarité,  traitement des outliers(sklearn)
+0,936  , modèle xg boost + hypara , traitement des catégorielles , multicolinéarité,  traitement des outliers(cook)
+0,936  , modèlestacking , traitement des catégorielles , multicolinéarité,  traitement des outliers(cook)
