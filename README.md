@@ -1,4 +1,4 @@
-# MOSEF-Bank-Churn-Prediction-VAZELLE-TEVERDIAN
+# MOSEF-Bank-Churn-Prediction-VAZELLE-TARVERDIAN
 
 🎯 Projet de Modélisation d'Attrition Client
 
