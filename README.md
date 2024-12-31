@@ -8,12 +8,12 @@ Ce projet a été développé dans le cadre d'une évaluation pour le Master MoS
 
 Une attention particulière a été portée sur :
 
-🧹 Le traitement des données : nettoyage, gestion des valeurs manquantes et ingénierie des variables.
-🧪 La stratégie de validation : mise en place de méthodes rigoureuses pour limiter l'overfitting.
-🤖 Le choix des modèles : tests et sélections des modèles les plus performants pour garantir une généralisation optimale.
-📂 Structure du Projet
+- 🧹 Le traitement des données : nettoyage, gestion des valeurs manquantes et ingénierie des variables.
+- 🧪 La stratégie de validation : mise en place de méthodes rigoureuses pour limiter l'overfitting.
+- 🤖 Le choix des modèles : tests et sélections des modèles les plus performants pour garantir une généralisation optimale.
+- 📂 Structure du Projet
 
 src/ : Contient tous les fichiers relatifs au projet.
 projet_Kaggle_TARVERDIAN_VAZELLE.ipynb : Notebook principal contenant :
-🕵️‍♀️ L'analyse exploratoire des données, illustrée par des graphiques.
-📊 Tous les modèles testés lors de notre démarche expérimentale.
+- 🕵️‍♀️ L'analyse exploratoire des données, illustrée par des graphiques.
+- 📊 Tous les modèles testés lors de notre démarche expérimentale.
