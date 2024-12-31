@@ -18,3 +18,15 @@ Une attention particulière a été portée sur :
   - projet_Kaggle_TARVERDIAN_VAZELLE.ipynb : Notebook principal contenant :
     - 🕵️‍♀️ L'analyse exploratoire des données, illustrée par des graphiques.
     - 📊 Tous les modèles testés lors de notre démarche expérimentale.
+
+🚀 Modèles Utilisés pour la Soumission
+
+Pour la soumission finale, nous avons choisi deux approches :
+
+🌱 Gradient Boosting : Un modèle classique et robuste pour minimiser l'overfitting.
+🥇 Stacking : Une combinaison avancée utilisant :
+- Gradient Boosting.
+- Régression Logistique Pénalisée avec un métamodèle basé sur Elastic Net.
+Ce choix permet de combiner la simplicité d’un modèle traditionnel et la puissance d’un ensemble complexe (boosting + régression).
+
+
