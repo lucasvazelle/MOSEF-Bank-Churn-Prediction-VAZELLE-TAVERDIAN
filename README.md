@@ -13,7 +13,7 @@ Une attention particulière a été portée sur :
 - 🤖 Le choix des modèles : tests et sélections des modèles les plus performants pour garantir une généralisation optimale.
 - 📂 Structure du Projet
 
-src/ : Contient tous les fichiers relatifs au projet.
-projet_Kaggle_TARVERDIAN_VAZELLE.ipynb : Notebook principal contenant :
-- 🕵️‍♀️ L'analyse exploratoire des données, illustrée par des graphiques.
-- 📊 Tous les modèles testés lors de notre démarche expérimentale.
+- src/ : Contient tous les fichiers relatifs au projet.
+  - projet_Kaggle_TARVERDIAN_VAZELLE.ipynb : Notebook principal contenant :
+    - 🕵️‍♀️ L'analyse exploratoire des données, illustrée par des graphiques.
+    - 📊 Tous les modèles testés lors de notre démarche expérimentale.
